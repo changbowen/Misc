@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-01-19T08:13:51.294Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="aOPrXOvGyIQMcH0N5oKc" version="12.5.5" type="github" pages="4">
+<mxfile host="www.draw.io" modified="2020-01-19T08:15:19.326Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="4COz1b1Lnm8OFF2WLxyD" version="12.5.5" type="github" pages="4">
   <diagram id="mdy2VoJJ_hpXCHdVCAX4" name="P01-CurrentSetup">
-    <mxGraphModel dx="1550" dy="902" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#333333" math="0" shadow="0" extFonts="Saira Semi Condensed^https://fonts.googleapis.com/css?family=Saira+Semi+Condensed|Titillium Web^https://fonts.googleapis.com/css?family=Titillium+Web">
+    <mxGraphModel dx="1599" dy="902" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#333333" math="0" shadow="0" extFonts="Saira Semi Condensed^https://fonts.googleapis.com/css?family=Saira+Semi+Condensed|Titillium Web^https://fonts.googleapis.com/css?family=Titillium+Web">
       <root>
         <object label="" id="0">
           <mxCell/>
@@ -168,7 +168,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="DHw6AHp1d1bLodUr_sFc" name="P02-WorkflowArchDesign">
-    <mxGraphModel dx="1550" dy="902" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#333333" math="0" shadow="0" extFonts="Titillium Web^https://fonts.googleapis.com/css?family=Titillium+Web|Saira Semi Condensed^https://fonts.googleapis.com/css?family=Saira+Semi+Condensed">
+    <mxGraphModel dx="1599" dy="902" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#333333" math="0" shadow="0" extFonts="Titillium Web^https://fonts.googleapis.com/css?family=Titillium+Web|Saira Semi Condensed^https://fonts.googleapis.com/css?family=Saira+Semi+Condensed">
       <root>
         <mxCell id="46D8ofPSR1Qk9bD0m-R3-0"/>
         <mxCell id="nxpzchACaGU3HjrOg2sg-34" value="BG" style="" parent="46D8ofPSR1Qk9bD0m-R3-0"/>
@@ -721,7 +721,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="HAnN73srGeg_1Xtkrjcj" name="P03-RequestFormDesign">
-    <mxGraphModel dx="1550" dy="902" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#333333" math="0" shadow="0" extFonts="Saira Semi Condensed^https://fonts.googleapis.com/css?family=Saira+Semi+Condensed|Titillium Web^https://fonts.googleapis.com/css?family=Titillium+Web">
+    <mxGraphModel dx="1599" dy="902" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#333333" math="0" shadow="0" extFonts="Saira Semi Condensed^https://fonts.googleapis.com/css?family=Saira+Semi+Condensed|Titillium Web^https://fonts.googleapis.com/css?family=Titillium+Web">
       <root>
         <mxCell id="6-Wkj66wEb8ZYPqIDUBF-0"/>
         <mxCell id="6-Wkj66wEb8ZYPqIDUBF-1" parent="6-Wkj66wEb8ZYPqIDUBF-0"/>
@@ -1192,7 +1192,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="P04-HostEnvironment" id="ZJljNhybhfUY1LY_AeuL">
-    <mxGraphModel dx="1550" dy="902" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#333333" math="0" shadow="0" extFonts="Saira Semi Condensed^https://fonts.googleapis.com/css?family=Saira+Semi+Condensed|Titillium Web^https://fonts.googleapis.com/css?family=Titillium+Web">
+    <mxGraphModel dx="1333" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#333333" math="0" shadow="0" extFonts="Saira Semi Condensed^https://fonts.googleapis.com/css?family=Saira+Semi+Condensed|Titillium Web^https://fonts.googleapis.com/css?family=Titillium+Web">
       <root>
         <mxCell id="5ERR0bMRM7Q9cMlbq0z_-0"/>
         <mxCell id="5ERR0bMRM7Q9cMlbq0z_-1" parent="5ERR0bMRM7Q9cMlbq0z_-0"/>
@@ -1208,7 +1208,7 @@
         <mxCell id="6krdy2XxtH_XrD-I-cTK-21" value="" style="shape=mxgraph.cisco.security.firewall;html=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;labelBackgroundColor=none;fontFamily=Saira Semi Condensed;fontSize=20;fontColor=#FFFFFF;part=0;FType=g;" parent="6krdy2XxtH_XrD-I-cTK-23" vertex="1">
           <mxGeometry width="34.63" height="80" as="geometry"/>
         </mxCell>
-        <mxCell id="-kOMS8TEComlEDjvcJTh-1" value="DMZ" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Saira Semi Condensed;fontSize=20;arcSize=2;fillColor=#D98858;strokeColor=#BA6647;strokeWidth=2;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;fontColor=#ffffff;FType=g;" parent="5ERR0bMRM7Q9cMlbq0z_-1" vertex="1">
+        <mxCell id="-kOMS8TEComlEDjvcJTh-1" value="DMZ" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Saira Semi Condensed;fontSize=20;arcSize=5;fillColor=#B57149;strokeColor=#9C553B;strokeWidth=2;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;fontColor=#FFFFFF;FType=g;" parent="5ERR0bMRM7Q9cMlbq0z_-1" vertex="1">
           <mxGeometry x="120" y="120" width="420" height="540" as="geometry"/>
         </mxCell>
         <mxCell id="6krdy2XxtH_XrD-I-cTK-24" value="" style="group;fontFamily=Saira Semi Condensed;FType=g;" parent="5ERR0bMRM7Q9cMlbq0z_-1" vertex="1" connectable="0">
@@ -1229,7 +1229,7 @@
         <mxCell id="6krdy2XxtH_XrD-I-cTK-16" value="DC #2" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Saira Semi Condensed;fontSize=16;arcSize=4;fillColor=#829AB0;strokeColor=#6A839C;strokeWidth=2;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;fontColor=#ffffff;FType=g;" parent="5ERR0bMRM7Q9cMlbq0z_-1" vertex="1">
           <mxGeometry x="340" y="163.5" width="180" height="476.5" as="geometry"/>
         </mxCell>
-        <mxCell id="-kOMS8TEComlEDjvcJTh-3" value="LAN" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Saira Semi Condensed;fontSize=20;arcSize=2;fillColor=#5AA658;strokeColor=#427842;strokeWidth=2;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;fontColor=#ffffff;FType=g;" parent="5ERR0bMRM7Q9cMlbq0z_-1" vertex="1">
+        <mxCell id="-kOMS8TEComlEDjvcJTh-3" value="LAN" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Saira Semi Condensed;fontSize=20;arcSize=5;fillColor=#4D8F4C;strokeColor=#3A693A;strokeWidth=2;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;fontColor=#FFFFFF;FType=g;" parent="5ERR0bMRM7Q9cMlbq0z_-1" vertex="1">
           <mxGeometry x="560" y="120" width="570" height="540" as="geometry"/>
         </mxCell>
         <mxCell id="6krdy2XxtH_XrD-I-cTK-12" value="DC #2" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Saira Semi Condensed;fontSize=16;arcSize=4;fillColor=#829AB0;strokeColor=#6A839C;strokeWidth=2;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;fontColor=#ffffff;FType=g;" parent="5ERR0bMRM7Q9cMlbq0z_-1" vertex="1">
