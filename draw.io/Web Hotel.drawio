@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-19T06:50:53.395Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="Yg6lQn3X9A1ap5X13lse" version="12.5.5" type="github" pages="4">
+<mxfile host="www.draw.io" modified="2020-01-19T07:13:33.250Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="3SlblDfPnBkDAgUt615e" version="12.5.5" type="github" pages="4">
   <diagram id="mdy2VoJJ_hpXCHdVCAX4" name="P01-CurrentSetup">
     <mxGraphModel dx="2014" dy="924" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#333333" math="0" shadow="0" extFonts="Saira Semi Condensed^https://fonts.googleapis.com/css?family=Saira+Semi+Condensed|Titillium Web^https://fonts.googleapis.com/css?family=Titillium+Web">
       <root>
@@ -1257,10 +1257,10 @@
         <mxCell id="-kOMS8TEComlEDjvcJTh-57" value="NODE #1" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/VM_Linux.svg;shadow=0;labelBackgroundColor=none;strokeColor=#28572D;strokeWidth=2;fillColor=#368A36;fontFamily=Saira Semi Condensed;fontColor=#FFFFFF;FType=g;" parent="5ERR0bMRM7Q9cMlbq0z_-1" vertex="1">
           <mxGeometry x="661.43" y="236.5" width="65.22" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="6krdy2XxtH_XrD-I-cTK-0" value="NODE #3" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/VM_Linux.svg;shadow=0;labelBackgroundColor=none;strokeColor=#28572D;strokeWidth=2;fillColor=#368A36;fontFamily=Saira Semi Condensed;fontColor=#FFFFFF;FType=g;" parent="5ERR0bMRM7Q9cMlbq0z_-1" vertex="1">
+        <mxCell id="6krdy2XxtH_XrD-I-cTK-0" value="NODE #2" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/VM_Linux.svg;shadow=0;labelBackgroundColor=none;strokeColor=#28572D;strokeWidth=2;fillColor=#368A36;fontFamily=Saira Semi Condensed;fontColor=#FFFFFF;FType=g;" parent="5ERR0bMRM7Q9cMlbq0z_-1" vertex="1">
           <mxGeometry x="904.01" y="236.5" width="65.22" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="-kOMS8TEComlEDjvcJTh-56" value="NODE #2" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/VirtualMachineWindows.svg;shadow=0;labelBackgroundColor=none;strokeColor=#28572D;strokeWidth=2;fillColor=#368A36;fontFamily=Saira Semi Condensed;fontColor=#FFFFFF;FType=g;" parent="5ERR0bMRM7Q9cMlbq0z_-1" vertex="1">
+        <mxCell id="-kOMS8TEComlEDjvcJTh-56" value="NODE #3" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/VirtualMachineWindows.svg;shadow=0;labelBackgroundColor=none;strokeColor=#28572D;strokeWidth=2;fillColor=#368A36;fontFamily=Saira Semi Condensed;fontColor=#FFFFFF;FType=g;" parent="5ERR0bMRM7Q9cMlbq0z_-1" vertex="1">
           <mxGeometry x="742.67" y="236.5" width="65.22" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="6krdy2XxtH_XrD-I-cTK-1" value="NODE #4" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/VirtualMachineWindows.svg;shadow=0;labelBackgroundColor=none;strokeColor=#28572D;strokeWidth=2;fillColor=#368A36;fontFamily=Saira Semi Condensed;fontColor=#FFFFFF;FType=g;" parent="5ERR0bMRM7Q9cMlbq0z_-1" vertex="1">
@@ -1275,7 +1275,7 @@
         <mxCell id="6krdy2XxtH_XrD-I-cTK-4" value="NODE #1" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/VM_Linux.svg;shadow=0;labelBackgroundColor=none;strokeColor=#28572D;strokeWidth=2;fillColor=#368A36;fontFamily=Saira Semi Condensed;fontColor=#FFFFFF;FType=g;" parent="5ERR0bMRM7Q9cMlbq0z_-1" vertex="1">
           <mxGeometry x="661.43" y="386.5" width="65.22" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="6krdy2XxtH_XrD-I-cTK-6" value="NODE #2" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/VirtualMachineWindows.svg;shadow=0;labelBackgroundColor=none;strokeColor=#28572D;strokeWidth=2;fillColor=#368A36;fontFamily=Saira Semi Condensed;fontColor=#FFFFFF;FType=g;" parent="5ERR0bMRM7Q9cMlbq0z_-1" vertex="1">
+        <mxCell id="6krdy2XxtH_XrD-I-cTK-6" value="NODE #3" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/VirtualMachineWindows.svg;shadow=0;labelBackgroundColor=none;strokeColor=#28572D;strokeWidth=2;fillColor=#368A36;fontFamily=Saira Semi Condensed;fontColor=#FFFFFF;FType=g;" parent="5ERR0bMRM7Q9cMlbq0z_-1" vertex="1">
           <mxGeometry x="742.67" y="386.5" width="65.22" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="6krdy2XxtH_XrD-I-cTK-8" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/VM_Linux.svg;shadow=0;labelBackgroundColor=none;strokeColor=#28572D;strokeWidth=2;fillColor=#368A36;fontFamily=Saira Semi Condensed;fontColor=#FFFFFF;FType=g;" parent="5ERR0bMRM7Q9cMlbq0z_-1" vertex="1">
