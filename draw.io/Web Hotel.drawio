@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-19T07:34:56.461Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="EDTYz5mQwxCuOtqwrRsM" version="12.5.5" type="github" pages="4">
+<mxfile host="www.draw.io" modified="2020-01-19T07:35:43.246Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="98J2ihtF07NXDoLS31Xp" version="12.5.5" type="github" pages="4">
   <diagram id="mdy2VoJJ_hpXCHdVCAX4" name="P01-CurrentSetup">
     <mxGraphModel dx="2014" dy="924" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#333333" math="0" shadow="0" extFonts="Saira Semi Condensed^https://fonts.googleapis.com/css?family=Saira+Semi+Condensed|Titillium Web^https://fonts.googleapis.com/css?family=Titillium+Web">
       <root>
@@ -1190,7 +1190,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="P04-HostEnvironment" id="ZJljNhybhfUY1LY_AeuL">
-    <mxGraphModel dx="959" dy="440" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#333333" math="0" shadow="0" extFonts="Saira Semi Condensed^https://fonts.googleapis.com/css?family=Saira+Semi+Condensed|Titillium Web^https://fonts.googleapis.com/css?family=Titillium+Web">
+    <mxGraphModel dx="2369" dy="1087" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#333333" math="0" shadow="0" extFonts="Saira Semi Condensed^https://fonts.googleapis.com/css?family=Saira+Semi+Condensed|Titillium Web^https://fonts.googleapis.com/css?family=Titillium+Web">
       <root>
         <mxCell id="5ERR0bMRM7Q9cMlbq0z_-0"/>
         <mxCell id="5ERR0bMRM7Q9cMlbq0z_-1" parent="5ERR0bMRM7Q9cMlbq0z_-0"/>
@@ -1297,10 +1297,10 @@
           <mxGeometry x="230.63" y="386.5" width="78.56" height="70" as="geometry"/>
         </mxCell>
         <mxCell id="ISnXx2xc3cgzauOKDa57-2" value="STORAGE" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6647CC;fillColor=#9A57FF;fontColor=#ffffff;strokeWidth=2;arcSize=7;fontFamily=Saira Semi Condensed;FType=g;fontStyle=1;fontSize=14;verticalAlign=top;" vertex="1" parent="5ERR0bMRM7Q9cMlbq0z_-1">
-          <mxGeometry x="600" y="500.33" width="220" height="120" as="geometry"/>
+          <mxGeometry x="600" y="540" width="220" height="80.66" as="geometry"/>
         </mxCell>
         <mxCell id="ISnXx2xc3cgzauOKDa57-5" value="\\AA-GSSC-FS1\Global\GSSC\..." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Saira Semi Condensed;fontSize=11;FType=g;fontColor=#FFFFFF;" vertex="1" parent="5ERR0bMRM7Q9cMlbq0z_-1">
-          <mxGeometry x="607" y="556.33" width="203" height="20" as="geometry"/>
+          <mxGeometry x="607" y="576.33" width="203" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="5ERR0bMRM7Q9cMlbq0z_-53" value="Lines" parent="5ERR0bMRM7Q9cMlbq0z_-0"/>
         <mxCell id="-kOMS8TEComlEDjvcJTh-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Saira Semi Condensed;fontSize=20;fontColor=#FFFFFF;strokeWidth=2;endArrow=blockThin;endFill=1;fillColor=#1ba1e2;strokeColor=#2E96DB;endSize=4;FType=g;" parent="5ERR0bMRM7Q9cMlbq0z_-53" source="-kOMS8TEComlEDjvcJTh-7" target="-kOMS8TEComlEDjvcJTh-0" edge="1">
