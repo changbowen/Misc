@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2020-03-31T09:28:48.688Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="4Ph43fDUSdrybIOejQeN" version="12.9.1" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2020-03-31T10:40:04.664Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="g0D2fIcJR44t6lFiopfV" version="12.9.1" type="github" pages="5">
   <diagram id="vdeEWOzXfZGyYzyY5dm7" name="1.0_Model">
-    <mxGraphModel dx="738" dy="413" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0" extFonts="Saira Semi Condensed^https://fonts.googleapis.com/css?family=Saira+Semi+Condensed">
+    <mxGraphModel dx="1292" dy="723" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0" extFonts="Saira Semi Condensed^https://fonts.googleapis.com/css?family=Saira+Semi+Condensed">
       <root>
         <mxCell id="slMgtaadJ-E3hH2V8TmR-0" />
         <mxCell id="slMgtaadJ-E3hH2V8TmR-1" parent="slMgtaadJ-E3hH2V8TmR-0" />
+        <mxCell id="RgXhSN0N2shMNtVWoZzD-15" value="DEMEESIS0022" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;fontFamily=Saira Semi Condensed;fontSize=12;fontColor=#E6E6E6;arcSize=5;verticalAlign=top;spacing=0;" vertex="1" parent="slMgtaadJ-E3hH2V8TmR-1">
+          <mxGeometry x="430" y="87.5" width="200" height="132.5" as="geometry" />
+        </mxCell>
         <mxCell id="s2cdguzuyOaX3sJPnQ7h-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Saira Semi Condensed;fontColor=#E6E6E6;strokeWidth=2;endArrow=blockThin;endFill=1;targetPerimeterSpacing=4;sourcePerimeterSpacing=4;startArrow=none;startFill=0;startSize=4;endSize=4;FType=g;" edge="1" parent="slMgtaadJ-E3hH2V8TmR-1" source="s2cdguzuyOaX3sJPnQ7h-1" target="s2cdguzuyOaX3sJPnQ7h-4">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="500" y="150" as="sourcePoint" />
@@ -12,7 +15,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="s2cdguzuyOaX3sJPnQ7h-1" value="IIS" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#f5f5f5;shape=mxgraph.mscae.enterprise.windows_server;fontColor=#E6E6E6;fontFamily=Saira Semi Condensed;FType=g;" vertex="1" parent="slMgtaadJ-E3hH2V8TmR-1">
-          <mxGeometry x="440" y="115" width="54.6" height="70" as="geometry" />
+          <mxGeometry x="453.9" y="120" width="46.8" height="60" as="geometry" />
         </mxCell>
         <mxCell id="s2cdguzuyOaX3sJPnQ7h-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;startSize=4;sourcePerimeterSpacing=4;endArrow=blockThin;endFill=1;endSize=4;targetPerimeterSpacing=4;strokeWidth=2;fontFamily=Saira Semi Condensed;fontColor=#E6E6E6;FType=g;" edge="1" parent="slMgtaadJ-E3hH2V8TmR-1" source="s2cdguzuyOaX3sJPnQ7h-3" target="s2cdguzuyOaX3sJPnQ7h-4">
           <mxGeometry relative="1" as="geometry">
@@ -23,8 +26,8 @@
         <mxCell id="s2cdguzuyOaX3sJPnQ7h-3" value="Admin" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.user;fillColor=#D2D3D3;gradientColor=none;shadow=0;fontFamily=Saira Semi Condensed;fontColor=#E6E6E6;FType=g;" vertex="1" parent="slMgtaadJ-E3hH2V8TmR-1">
           <mxGeometry x="680" y="130" width="28.57" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="s2cdguzuyOaX3sJPnQ7h-4" value="File Share" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#1ba1e2;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.shared_folder;fontFamily=Saira Semi Condensed;fontColor=#ffffff;FType=g;" vertex="1" parent="slMgtaadJ-E3hH2V8TmR-1">
-          <mxGeometry x="562.05" y="125" width="51.11" height="50" as="geometry" />
+        <mxCell id="s2cdguzuyOaX3sJPnQ7h-4" value="D:\IIS\Websites\xxx.assaabloy.net&lt;br&gt;(Shared)" style="shadow=0;dashed=0;strokeColor=none;fillColor=#1ba1e2;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.shared_folder;fontFamily=Saira Semi Condensed;fontColor=#ffffff;FType=g;fontSize=7;html=1;" vertex="1" parent="slMgtaadJ-E3hH2V8TmR-1">
+          <mxGeometry x="550" y="130" width="40.89" height="40" as="geometry" />
         </mxCell>
         <mxCell id="s2cdguzuyOaX3sJPnQ7h-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startFill=0;startSize=4;sourcePerimeterSpacing=4;endArrow=blockThin;endFill=1;endSize=4;targetPerimeterSpacing=4;strokeWidth=2;fontFamily=Saira Semi Condensed;fontSize=10;fontColor=#E6E6E6;FType=g;horizontal=0;" edge="1" parent="slMgtaadJ-E3hH2V8TmR-1" source="s2cdguzuyOaX3sJPnQ7h-8" target="RgXhSN0N2shMNtVWoZzD-5">
           <mxGeometry relative="1" as="geometry">
@@ -48,7 +51,7 @@
             <mxPoint x="36.37" y="-9.5" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s2cdguzuyOaX3sJPnQ7h-10" value="FW / LB" style="shape=mxgraph.cisco.security.firewall;html=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;labelBackgroundColor=none;fontFamily=Saira Semi Condensed;fontSize=12;fontColor=#FFFFFF;FType=g;" vertex="1" parent="slMgtaadJ-E3hH2V8TmR-1">
+        <mxCell id="s2cdguzuyOaX3sJPnQ7h-10" value="FW &amp;amp; LB" style="shape=mxgraph.cisco.security.firewall;html=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;labelBackgroundColor=none;fontFamily=Saira Semi Condensed;fontSize=12;fontColor=#FFFFFF;FType=g;" vertex="1" parent="slMgtaadJ-E3hH2V8TmR-1">
           <mxGeometry x="290" y="110" width="34.63" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_ilPoaqdrzFX8dRd_E3j-0" value="External User" style="group;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;fontFamily=Saira Semi Condensed;FType=g;" vertex="1" connectable="0" parent="slMgtaadJ-E3hH2V8TmR-1">
@@ -78,7 +81,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="mdy2VoJJ_hpXCHdVCAX4" name="1.0_InfraSetup">
-    <mxGraphModel dx="1550" dy="868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#333333" math="0" shadow="0" extFonts="Saira Semi Condensed^https://fonts.googleapis.com/css?family=Saira+Semi+Condensed|Titillium Web^https://fonts.googleapis.com/css?family=Titillium+Web">
+    <mxGraphModel dx="738" dy="413" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#333333" math="0" shadow="0" extFonts="Saira Semi Condensed^https://fonts.googleapis.com/css?family=Saira+Semi+Condensed|Titillium Web^https://fonts.googleapis.com/css?family=Titillium+Web">
       <root>
         <object label="" id="0">
           <mxCell />
