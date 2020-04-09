@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-09T13:53:48.286Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="IxoQwAIk8IxGlDsZhCv_" version="12.9.9" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2020-04-09T13:55:04.101Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="prz04UZPolYwr3E5JljM" version="12.9.9" type="github" pages="6">
   <diagram id="vdeEWOzXfZGyYzyY5dm7" name="1.0_Model">
     <mxGraphModel dx="1069" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#333333" math="0" shadow="0" extFonts="Saira Semi Condensed^https://fonts.googleapis.com/css?family=Saira+Semi+Condensed">
       <root>
@@ -327,7 +327,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="1nuNjNQhtrgwzt40I7DG" name="2.0_Model">
-    <mxGraphModel dx="886" dy="515" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#333333" math="0" shadow="0" extFonts="Saira Semi Condensed^https://fonts.googleapis.com/css?family=Saira+Semi+Condensed">
+    <mxGraphModel dx="738" dy="430" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#333333" math="0" shadow="0" extFonts="Saira Semi Condensed^https://fonts.googleapis.com/css?family=Saira+Semi+Condensed">
       <root>
         <object label="" app_name="example-app" external_vip="141.81.166.100" internal_vip="10.230.112.100" internal_domain="webhotel.assaabloy.net" id="XnNXrbyaNFNf6ZyIaIjj-0">
           <mxCell />
@@ -466,7 +466,7 @@
         </mxCell>
         <object label="Container" placeholders="1" id="kSQfGGBtRyI9uHgptSxg-1">
           <mxCell style="rounded=1;whiteSpace=wrap;shadow=0;labelBackgroundColor=none;fontFamily=Saira Semi Condensed;fontSize=10;fontColor=#ffffff;arcSize=20;verticalAlign=middle;spacing=0;fillColor=#006EAF;strokeColor=#1BA1E2;strokeWidth=2;FType=g;html=1;absoluteArcSize=0;spacingTop=-2;" parent="XnNXrbyaNFNf6ZyIaIjj-1" vertex="1">
-            <mxGeometry x="800" y="255" width="55.9" height="33" as="geometry" />
+            <mxGeometry x="797" y="255" width="59" height="33" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;h3&gt;Fake values used in the example&lt;/h3&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;Application Name: %app_name%&lt;br&gt;Internal DNS Name: %app_name%.%internal_domain%&lt;br&gt;Internal VIP: %internal_vip%&lt;br&gt;External VIP: %external_vip%&lt;/font&gt;&lt;br&gt;&lt;h3&gt;Notes&lt;/h3&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;ol style=&quot;padding-left: 2em&quot;&gt;&lt;li&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;By default the web app will be accessible from &lt;i&gt;app_namespace.webhotel.assaabloy.net&lt;/i&gt;&amp;nbsp;internally. Additional DNS records can be created for aliasing and / or enabling access externally.&lt;/font&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/font&gt;" placeholders="1" id="730KvJUtYk9D6wUxi__t-0">
@@ -480,7 +480,7 @@
           </mxCell>
         </object>
         <mxCell id="Rkf0NeG9kYn2b7wqYhxB-1" value="Container" style="rounded=1;whiteSpace=wrap;shadow=0;labelBackgroundColor=none;fontFamily=Saira Semi Condensed;fontSize=10;fontColor=#ffffff;arcSize=20;verticalAlign=middle;spacing=0;fillColor=#006EAF;strokeColor=#1BA1E2;strokeWidth=2;FType=g;html=1;absoluteArcSize=0;spacingTop=-2;" vertex="1" parent="XnNXrbyaNFNf6ZyIaIjj-1">
-          <mxGeometry x="800" y="297" width="55.9" height="33" as="geometry" />
+          <mxGeometry x="797" y="297" width="59" height="33" as="geometry" />
         </mxCell>
         <mxCell id="Rkf0NeG9kYn2b7wqYhxB-5" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;startFill=0;startSize=4;sourcePerimeterSpacing=4;endArrow=blockThin;endFill=1;endSize=4;targetPerimeterSpacing=4;strokeColor=#A9C4EB;strokeWidth=2;fontFamily=Saira Semi Condensed;fontSize=8;fontColor=#FFFFFF;rounded=1;arcSize=15;" edge="1" parent="XnNXrbyaNFNf6ZyIaIjj-1" source="m5LFk64gs54GWOcqTb33-23" target="Rkf0NeG9kYn2b7wqYhxB-0">
           <mxGeometry x="-0.2335" y="-16" relative="1" as="geometry">
@@ -576,7 +576,15 @@
         <mxCell id="IgqGqXwc5VrTF-lOK2fY-7" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;startFill=0;startSize=4;sourcePerimeterSpacing=4;endArrow=blockThin;endFill=1;endSize=4;targetPerimeterSpacing=4;strokeColor=#A9C4EB;strokeWidth=2;fontFamily=Saira Semi Condensed;fontSize=8;fontColor=#FFFFFF;" edge="1" parent="XnNXrbyaNFNf6ZyIaIjj-1" source="Rkf0NeG9kYn2b7wqYhxB-1" target="IgqGqXwc5VrTF-lOK2fY-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="793" y="314" />
+              <mxPoint x="786" y="314" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IgqGqXwc5VrTF-lOK2fY-8" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=none;startFill=0;startSize=4;sourcePerimeterSpacing=4;endArrow=blockThin;endFill=1;endSize=4;targetPerimeterSpacing=4;strokeColor=#A9C4EB;strokeWidth=2;fontFamily=Saira Semi Condensed;fontSize=8;fontColor=#FFFFFF;arcSize=15;" edge="1" parent="XnNXrbyaNFNf6ZyIaIjj-1" source="Rkf0NeG9kYn2b7wqYhxB-7" target="Rkf0NeG9kYn2b7wqYhxB-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="710" y="263" />
+              <mxPoint x="710" y="312" />
             </Array>
           </mxGeometry>
         </mxCell>
