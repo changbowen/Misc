@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-09T08:36:28.661Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="Qjmk6K56yPpnXJzjJJQ7" version="12.9.9" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2020-04-09T09:24:57.347Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="KfLWoJ5h4D2B189gcq52" version="12.9.9" type="github" pages="6">
   <diagram id="vdeEWOzXfZGyYzyY5dm7" name="1.0_Model">
     <mxGraphModel dx="1069" dy="599" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#333333" math="0" shadow="0" extFonts="Saira Semi Condensed^https://fonts.googleapis.com/css?family=Saira+Semi+Condensed">
       <root>
@@ -427,7 +427,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="DHw6AHp1d1bLodUr_sFc" name="2.0_WorkflowArchDesign">
-    <mxGraphModel dx="1550" dy="868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#333333" math="0" shadow="0" extFonts="Titillium Web^https://fonts.googleapis.com/css?family=Titillium+Web|Saira Semi Condensed^https://fonts.googleapis.com/css?family=Saira+Semi+Condensed">
+    <mxGraphModel dx="1069" dy="599" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#333333" math="0" shadow="0" extFonts="Titillium Web^https://fonts.googleapis.com/css?family=Titillium+Web|Saira Semi Condensed^https://fonts.googleapis.com/css?family=Saira+Semi+Condensed">
       <root>
         <mxCell id="46D8ofPSR1Qk9bD0m-R3-0" />
         <mxCell id="nxpzchACaGU3HjrOg2sg-34" value="BG" style="" parent="46D8ofPSR1Qk9bD0m-R3-0" />
@@ -557,22 +557,22 @@
           <mxGeometry x="10" width="43.75" height="42" as="geometry" />
         </mxCell>
         <mxCell id="MwQSh8HNFK2b5KTBlhwx-0" value="MID" parent="46D8ofPSR1Qk9bD0m-R3-0" />
-        <mxCell id="elA22QSAnJzFa5BDUADW-22" value="namespace 1&lt;br&gt;NGINX" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Saira Semi Condensed;fontSize=9;fontColor=#ffffff;align=center;fillColor=#FFFFFF44;strokeColor=none;arcSize=4;verticalAlign=top;FType=g;spacing=0;horizontal=0;" parent="MwQSh8HNFK2b5KTBlhwx-0" vertex="1">
+        <mxCell id="elA22QSAnJzFa5BDUADW-22" value="namespace 1.webhotel.assaabloy.net&lt;br&gt;NGINX" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Saira Semi Condensed;fontSize=9;fontColor=#ffffff;align=center;fillColor=#FFFFFF44;strokeColor=none;arcSize=4;verticalAlign=top;FType=g;spacing=0;horizontal=0;" parent="MwQSh8HNFK2b5KTBlhwx-0" vertex="1">
           <mxGeometry x="151" y="200" width="108" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="gqz2RGlUPzlXdwmPydgd-18" value="namespace 2&lt;br&gt;Apache + Tomcat" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Saira Semi Condensed;fontSize=9;fontColor=#ffffff;align=center;fillColor=#FFFFFF44;strokeColor=none;arcSize=4;verticalAlign=top;FType=g;spacing=0;horizontal=0;" parent="MwQSh8HNFK2b5KTBlhwx-0" vertex="1">
+        <mxCell id="gqz2RGlUPzlXdwmPydgd-18" value="namespace 2.webhotel.assaabloy.net&lt;br&gt;Apache + Tomcat" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Saira Semi Condensed;fontSize=9;fontColor=#ffffff;align=center;fillColor=#FFFFFF44;strokeColor=none;arcSize=4;verticalAlign=top;FType=g;spacing=0;horizontal=0;" parent="MwQSh8HNFK2b5KTBlhwx-0" vertex="1">
           <mxGeometry x="261" y="200" width="108" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="gqz2RGlUPzlXdwmPydgd-19" value="namespace 3&lt;br&gt;Node.js + mysql" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Saira Semi Condensed;fontSize=9;fontColor=#ffffff;align=center;fillColor=#FFFFFF44;strokeColor=none;arcSize=4;verticalAlign=top;FType=g;spacing=0;horizontal=0;" parent="MwQSh8HNFK2b5KTBlhwx-0" vertex="1">
+        <mxCell id="gqz2RGlUPzlXdwmPydgd-19" value="namespace 3.webhotel.assaabloy.net&lt;br&gt;Node.js + mysql" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Saira Semi Condensed;fontSize=9;fontColor=#ffffff;align=center;fillColor=#FFFFFF44;strokeColor=none;arcSize=4;verticalAlign=top;FType=g;spacing=0;horizontal=0;" parent="MwQSh8HNFK2b5KTBlhwx-0" vertex="1">
           <mxGeometry x="371" y="200" width="108" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="gqz2RGlUPzlXdwmPydgd-20" value="namespace 4&lt;br&gt;Custom docker" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Saira Semi Condensed;fontSize=9;fontColor=#ffffff;align=center;fillColor=#FFFFFF44;strokeColor=none;arcSize=4;verticalAlign=top;FType=g;spacing=0;horizontal=0;" parent="MwQSh8HNFK2b5KTBlhwx-0" vertex="1">
+        <mxCell id="gqz2RGlUPzlXdwmPydgd-20" value="namespace 4.webhotel.assaabloy.net&lt;br&gt;Custom docker" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Saira Semi Condensed;fontSize=9;fontColor=#ffffff;align=center;fillColor=#FFFFFF44;strokeColor=none;arcSize=4;verticalAlign=top;FType=g;spacing=0;horizontal=0;" parent="MwQSh8HNFK2b5KTBlhwx-0" vertex="1">
           <mxGeometry x="481" y="200" width="108" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="elA22QSAnJzFa5BDUADW-29" value="namespace 5&lt;br&gt;IIS + SQL server" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Saira Semi Condensed;fontSize=9;fontColor=#ffffff;align=center;fillColor=#FFFFFF44;strokeColor=none;arcSize=4;verticalAlign=top;FType=g;spacing=0;horizontal=0;" parent="MwQSh8HNFK2b5KTBlhwx-0" vertex="1">
+        <mxCell id="elA22QSAnJzFa5BDUADW-29" value="namespace 5.webhotel.assaabloy.net&lt;br&gt;IIS + SQL server" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Saira Semi Condensed;fontSize=9;fontColor=#ffffff;align=center;fillColor=#FFFFFF44;strokeColor=none;arcSize=4;verticalAlign=top;FType=g;spacing=0;horizontal=0;" parent="MwQSh8HNFK2b5KTBlhwx-0" vertex="1">
           <mxGeometry x="671" y="200" width="108" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="elA22QSAnJzFa5BDUADW-30" value="namespace 6&lt;br&gt;IIS" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Saira Semi Condensed;fontSize=9;fontColor=#ffffff;align=center;fillColor=#FFFFFF44;strokeColor=none;arcSize=4;verticalAlign=top;FType=g;spacing=0;horizontal=0;" parent="MwQSh8HNFK2b5KTBlhwx-0" vertex="1">
+        <mxCell id="elA22QSAnJzFa5BDUADW-30" value="namespace 6.webhotel.assaabloy.net&lt;br&gt;IIS" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Saira Semi Condensed;fontSize=9;fontColor=#ffffff;align=center;fillColor=#FFFFFF44;strokeColor=none;arcSize=4;verticalAlign=top;FType=g;spacing=0;horizontal=0;" parent="MwQSh8HNFK2b5KTBlhwx-0" vertex="1">
           <mxGeometry x="782" y="200" width="108" height="250" as="geometry" />
         </mxCell>
         <mxCell id="46D8ofPSR1Qk9bD0m-R3-16" value="Pod" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Saira Semi Condensed;fontSize=9;fontColor=#FFFFFF99;align=center;fillColor=#00000055;strokeColor=none;arcSize=8;verticalAlign=top;FType=g;spacingTop=-3;horizontal=0;" parent="MwQSh8HNFK2b5KTBlhwx-0" vertex="1">
