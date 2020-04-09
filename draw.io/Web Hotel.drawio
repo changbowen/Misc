@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-09T08:33:56.474Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="Urpc_1MKWdQiAHmRJ-7X" version="12.9.9" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2020-04-09T08:36:28.661Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="Qjmk6K56yPpnXJzjJJQ7" version="12.9.9" type="github" pages="6">
   <diagram id="vdeEWOzXfZGyYzyY5dm7" name="1.0_Model">
     <mxGraphModel dx="1069" dy="599" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#333333" math="0" shadow="0" extFonts="Saira Semi Condensed^https://fonts.googleapis.com/css?family=Saira+Semi+Condensed">
       <root>
@@ -331,6 +331,9 @@
       <root>
         <mxCell id="XnNXrbyaNFNf6ZyIaIjj-0" />
         <mxCell id="XnNXrbyaNFNf6ZyIaIjj-1" parent="XnNXrbyaNFNf6ZyIaIjj-0" />
+        <mxCell id="PqgTDA2ZLUtzw5YdWAve-0" value="request -&amp;gt; xxx.assaabloy.net -&amp;gt; dns -&amp;gt; IP of demeeslx0148, 0149... (load balancing?) -&amp;gt; Ingress redirecting traffic by host value" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="XnNXrbyaNFNf6ZyIaIjj-1">
+          <mxGeometry x="170" y="150" width="790" height="240" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
