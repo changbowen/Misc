@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-09T13:55:04.101Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="prz04UZPolYwr3E5JljM" version="12.9.9" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2020-04-09T14:03:44.294Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="n2W8bgU7jB52GPGIFmP4" version="12.9.9" type="github" pages="6">
   <diagram id="vdeEWOzXfZGyYzyY5dm7" name="1.0_Model">
     <mxGraphModel dx="1069" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#333333" math="0" shadow="0" extFonts="Saira Semi Condensed^https://fonts.googleapis.com/css?family=Saira+Semi+Condensed">
       <root>
@@ -327,12 +327,15 @@
     </mxGraphModel>
   </diagram>
   <diagram id="1nuNjNQhtrgwzt40I7DG" name="2.0_Model">
-    <mxGraphModel dx="738" dy="430" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#333333" math="0" shadow="0" extFonts="Saira Semi Condensed^https://fonts.googleapis.com/css?family=Saira+Semi+Condensed">
+    <mxGraphModel dx="1069" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#333333" math="0" shadow="0" extFonts="Saira Semi Condensed^https://fonts.googleapis.com/css?family=Saira+Semi+Condensed">
       <root>
         <object label="" app_name="example-app" external_vip="141.81.166.100" internal_vip="10.230.112.100" internal_domain="webhotel.assaabloy.net" id="XnNXrbyaNFNf6ZyIaIjj-0">
           <mxCell />
         </object>
         <mxCell id="XnNXrbyaNFNf6ZyIaIjj-1" parent="XnNXrbyaNFNf6ZyIaIjj-0" />
+        <mxCell id="IgqGqXwc5VrTF-lOK2fY-0" value="Storage" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#771CFF;fillColor=#5B23CC;fontColor=#ffffff;strokeWidth=2;arcSize=11;fontFamily=Saira Semi Condensed;FType=g;fontStyle=1;fontSize=12;verticalAlign=top;horizontal=0;" vertex="1" parent="XnNXrbyaNFNf6ZyIaIjj-1">
+          <mxGeometry x="460" y="378" width="486" height="102" as="geometry" />
+        </mxCell>
         <object label="Kubernetes Cluster" placeholders="1" id="Rkf0NeG9kYn2b7wqYhxB-6">
           <mxCell style="rounded=1;whiteSpace=wrap;shadow=0;labelBackgroundColor=none;fontFamily=Saira Semi Condensed;fontSize=12;fontColor=#FFFFFF;arcSize=5;verticalAlign=top;spacing=2;fillColor=#3E4A54;strokeColor=#4D6882;strokeWidth=2;FType=g;labelPosition=center;verticalLabelPosition=middle;align=center;horizontal=0;html=1;fontStyle=1" vertex="1" parent="XnNXrbyaNFNf6ZyIaIjj-1">
             <mxGeometry x="460" y="210" width="486" height="150" as="geometry" />
@@ -349,8 +352,16 @@
         <mxCell id="m5LFk64gs54GWOcqTb33-0" value="Firewall / Load Balancer" style="rounded=1;whiteSpace=wrap;shadow=0;labelBackgroundColor=none;fontFamily=Saira Semi Condensed;fontSize=12;fontColor=#FFFFFF;arcSize=5;verticalAlign=top;spacing=2;fillColor=#3E4A54;strokeColor=#4D6882;strokeWidth=2;FType=g;html=1;" parent="XnNXrbyaNFNf6ZyIaIjj-1" vertex="1">
           <mxGeometry x="320" y="40" width="176.5" height="132.5" as="geometry" />
         </mxCell>
+        <mxCell id="IgqGqXwc5VrTF-lOK2fY-9" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;startFill=0;startSize=4;sourcePerimeterSpacing=4;endArrow=blockThin;endFill=1;endSize=4;targetPerimeterSpacing=4;strokeColor=#A9C4EB;strokeWidth=2;fontFamily=Saira Semi Condensed;fontSize=8;fontColor=#FFFFFF;" edge="1" parent="XnNXrbyaNFNf6ZyIaIjj-1" source="m5LFk64gs54GWOcqTb33-5" target="IgqGqXwc5VrTF-lOK2fY-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="980" y="440" />
+              <mxPoint x="980" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="m5LFk64gs54GWOcqTb33-5" value="Admin" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.aws3.user;fillColor=#D2D3D3;gradientColor=none;shadow=0;fontFamily=Saira Semi Condensed;fontColor=#FFFFFF;FType=g;html=1;" parent="XnNXrbyaNFNf6ZyIaIjj-1" vertex="1">
-          <mxGeometry x="1090" y="86.25" width="28.57" height="40" as="geometry" />
+          <mxGeometry x="1015.25" y="417" width="28.57" height="40" as="geometry" />
         </mxCell>
         <object label="" placeholders="1" id="m5LFk64gs54GWOcqTb33-7">
           <mxCell style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;startFill=0;startSize=4;sourcePerimeterSpacing=4;endArrow=blockThin;endFill=1;endSize=4;targetPerimeterSpacing=4;strokeWidth=2;fontFamily=Saira Semi Condensed;fontSize=8;fontColor=#FFFFFF;FType=g;horizontal=0;html=1;strokeColor=#A9C4EB;labelBackgroundColor=none;arcSize=15;" parent="XnNXrbyaNFNf6ZyIaIjj-1" source="m5LFk64gs54GWOcqTb33-14" target="m5LFk64gs54GWOcqTb33-17" edge="1">
@@ -466,7 +477,7 @@
         </mxCell>
         <object label="Container" placeholders="1" id="kSQfGGBtRyI9uHgptSxg-1">
           <mxCell style="rounded=1;whiteSpace=wrap;shadow=0;labelBackgroundColor=none;fontFamily=Saira Semi Condensed;fontSize=10;fontColor=#ffffff;arcSize=20;verticalAlign=middle;spacing=0;fillColor=#006EAF;strokeColor=#1BA1E2;strokeWidth=2;FType=g;html=1;absoluteArcSize=0;spacingTop=-2;" parent="XnNXrbyaNFNf6ZyIaIjj-1" vertex="1">
-            <mxGeometry x="797" y="255" width="59" height="33" as="geometry" />
+            <mxGeometry x="790" y="255" width="66" height="33" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;h3&gt;Fake values used in the example&lt;/h3&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;Application Name: %app_name%&lt;br&gt;Internal DNS Name: %app_name%.%internal_domain%&lt;br&gt;Internal VIP: %internal_vip%&lt;br&gt;External VIP: %external_vip%&lt;/font&gt;&lt;br&gt;&lt;h3&gt;Notes&lt;/h3&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;ol style=&quot;padding-left: 2em&quot;&gt;&lt;li&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;By default the web app will be accessible from &lt;i&gt;app_namespace.webhotel.assaabloy.net&lt;/i&gt;&amp;nbsp;internally. Additional DNS records can be created for aliasing and / or enabling access externally.&lt;/font&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/font&gt;" placeholders="1" id="730KvJUtYk9D6wUxi__t-0">
@@ -480,7 +491,7 @@
           </mxCell>
         </object>
         <mxCell id="Rkf0NeG9kYn2b7wqYhxB-1" value="Container" style="rounded=1;whiteSpace=wrap;shadow=0;labelBackgroundColor=none;fontFamily=Saira Semi Condensed;fontSize=10;fontColor=#ffffff;arcSize=20;verticalAlign=middle;spacing=0;fillColor=#006EAF;strokeColor=#1BA1E2;strokeWidth=2;FType=g;html=1;absoluteArcSize=0;spacingTop=-2;" vertex="1" parent="XnNXrbyaNFNf6ZyIaIjj-1">
-          <mxGeometry x="797" y="297" width="59" height="33" as="geometry" />
+          <mxGeometry x="790" y="297" width="66" height="33" as="geometry" />
         </mxCell>
         <mxCell id="Rkf0NeG9kYn2b7wqYhxB-5" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;startFill=0;startSize=4;sourcePerimeterSpacing=4;endArrow=blockThin;endFill=1;endSize=4;targetPerimeterSpacing=4;strokeColor=#A9C4EB;strokeWidth=2;fontFamily=Saira Semi Condensed;fontSize=8;fontColor=#FFFFFF;rounded=1;arcSize=15;" edge="1" parent="XnNXrbyaNFNf6ZyIaIjj-1" source="m5LFk64gs54GWOcqTb33-23" target="Rkf0NeG9kYn2b7wqYhxB-0">
           <mxGeometry x="-0.2335" y="-16" relative="1" as="geometry">
@@ -555,28 +566,27 @@
             <mxPoint x="900" y="243" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IgqGqXwc5VrTF-lOK2fY-0" value="Storage" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#3700CC;fillColor=#6a00ff;fontColor=#ffffff;strokeWidth=2;arcSize=11;fontFamily=Saira Semi Condensed;FType=g;fontStyle=1;fontSize=12;verticalAlign=top;horizontal=0;" vertex="1" parent="XnNXrbyaNFNf6ZyIaIjj-1">
-          <mxGeometry x="460" y="378" width="486" height="102" as="geometry" />
-        </mxCell>
         <mxCell id="IgqGqXwc5VrTF-lOK2fY-1" value="\\DEMEEISLSMB001\GSSC-WebHotel\..." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Saira Semi Condensed;fontSize=10;FType=g;fontColor=#FFFFFF;" vertex="1" parent="XnNXrbyaNFNf6ZyIaIjj-1">
           <mxGeometry x="608.88" y="457" width="188.25" height="20" as="geometry" />
         </mxCell>
         <object label="\%app_name%" placeholders="1" id="IgqGqXwc5VrTF-lOK2fY-4">
-          <mxCell style="rounded=1;whiteSpace=wrap;shadow=0;labelBackgroundColor=none;fontFamily=Saira Semi Condensed;fontSize=10;fontColor=#ffffff;arcSize=10;verticalAlign=top;spacing=2;fillColor=#005700;strokeColor=#008A00;strokeWidth=2;FType=g;html=1;" vertex="1" parent="XnNXrbyaNFNf6ZyIaIjj-1">
-            <mxGeometry x="720" y="390" width="145" height="64.33" as="geometry" />
+          <mxCell style="rounded=1;whiteSpace=wrap;shadow=0;labelBackgroundColor=none;fontFamily=Saira Semi Condensed;fontSize=10;fontColor=#ffffff;arcSize=10;verticalAlign=top;spacing=2;fillColor=#7700CC;strokeColor=#AA00FF;strokeWidth=2;FType=g;html=1;align=center;" vertex="1" parent="XnNXrbyaNFNf6ZyIaIjj-1">
+            <mxGeometry x="735" y="390" width="115" height="64.33" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="IgqGqXwc5VrTF-lOK2fY-2" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;startFill=0;startSize=4;sourcePerimeterSpacing=4;endArrow=blockThin;endFill=1;endSize=4;targetPerimeterSpacing=4;strokeColor=#A9C4EB;strokeWidth=2;fontFamily=Saira Semi Condensed;fontSize=8;fontColor=#FFFFFF;arcSize=15;" edge="1" parent="XnNXrbyaNFNf6ZyIaIjj-1" source="kSQfGGBtRyI9uHgptSxg-1" target="IgqGqXwc5VrTF-lOK2fY-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="786" y="272" />
+              <mxPoint x="870" y="272" />
+              <mxPoint x="870" y="422" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="IgqGqXwc5VrTF-lOK2fY-7" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;startFill=0;startSize=4;sourcePerimeterSpacing=4;endArrow=blockThin;endFill=1;endSize=4;targetPerimeterSpacing=4;strokeColor=#A9C4EB;strokeWidth=2;fontFamily=Saira Semi Condensed;fontSize=8;fontColor=#FFFFFF;" edge="1" parent="XnNXrbyaNFNf6ZyIaIjj-1" source="Rkf0NeG9kYn2b7wqYhxB-1" target="IgqGqXwc5VrTF-lOK2fY-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="786" y="314" />
+              <mxPoint x="870" y="314" />
+              <mxPoint x="870" y="422" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -587,6 +597,9 @@
               <mxPoint x="710" y="312" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="9Pzici-dnqGLkgqzg7p2-0" value="" style="shadow=0;dashed=0;strokeColor=none;fillColor=#1ba1e2;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.shared_folder;fontFamily=Saira Semi Condensed;fontColor=#FFFFFF;FType=g;fontSize=7;html=1;" vertex="1" parent="XnNXrbyaNFNf6ZyIaIjj-1">
+          <mxGeometry x="779.21" y="415.99" width="26.58" height="26.01" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
